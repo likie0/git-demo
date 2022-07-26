@@ -3,7 +3,7 @@ git test here 11111111
 git test here 11111111
 git test here 11111111
 git test here 11111111
-git test here 11111111
+git test here 11111111 master chan
 git test here 11111111
 git test here 11111111
 git test here 11111111
