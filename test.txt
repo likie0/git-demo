@@ -12,3 +12,4 @@ git test here 11111111 branch1 chang
 git test here 11111111
 hello !
 new info
+merge into master!!!
